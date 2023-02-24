@@ -62,6 +62,8 @@ def video_capture_split(vidpath, frame_cut, split_num, name, dirFHD, vidcnt, vid
                     
                     h,w,c = image.shape
                     # 원하는 영역을 자르기 위해서는 [ startY:endY, startX:endX ] 
+                    # 이거 뭔가 이상해서 나중에 수정해야 할 수도 있음
+                    # img = img[Y:hY, X:wX] 이게 맞음
                     quadrant1 = image[0:int(h/2), int(w/2):w]
                     quadrant2 = image[0:int(h/2), 0:int(w/2)]
                     quadrant3 = image[int(h/2):h, 0:int(w/2)]
