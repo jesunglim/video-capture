@@ -1,5 +1,7 @@
 # What is video-capture?
 video-capture is a tool that extracts images by reading frames from a video.
+
+This is a script to create a dataset for Super Resolution Training.
 ![diagram](screenshots/diagram.jpg)
 
 ## How to install video-capture
