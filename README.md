@@ -54,3 +54,11 @@ Crop Result
 
 Saved split images
 ![split_result](screenshots/split_result.png)
+
+.csv file generated for dataset load
+```
+ ,	              4k,	                             1080p
+0,	./imgs/4k/'Attention' Official MV0.jpg,	./imgs/1080p/'Attention' Official MV0.jpg
+1,	./imgs/4k/'Attention' Official MV1.jpg,	./imgs/1080p/'Attention' Official MV1.jpg
+2,	./imgs/4k/'Attention' Official MV2.jpg,	./imgs/1080p/'Attention' Official MV2.jpg
+```
