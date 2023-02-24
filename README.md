@@ -46,7 +46,7 @@ python main.py --path C:\\Users\\jesung\\Videos\\4k
 |   split_num   |   numbers of divide screen. options are None, 4.
 |   gaussian    |   Gaussian Filter Kernel Size. options are None, positive number. [ Recommend 1~3 ]
 |   compres     |   Resolution size to be compressed for blur. It is applied only when split_num is set to None.
-|   outpres     |   Resolution of the final blur image
+|   outres     |   Resolution of the final blur image
 
 ## Result
 Crop Result
