@@ -44,7 +44,7 @@ python main.py --path C:\\Users\\jesung\\Videos\\4k
 |   path        |   Path containing videos to be captured
 |   frame       |   Frame cycle to capture. If it is 24, capture once every 24 frames.
 |   split_num   |   numbers of divide screen. options are None, 4.
-|   gaussian    |   Gaussian Filter Kernel Size.   Recommend 1~3
+|   gaussian    |   Gaussian Filter Kernel Size. options are None, positive number. [ Recommend 1~3 ]
 |   compres     |   Resolution size to be compressed for blur
 |   outpres     |   Resolution of the final blur image
 
