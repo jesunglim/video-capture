@@ -51,4 +51,4 @@ Crop Result
 ![crop_result](screenshots/crop_result.jpg)
 
 Saved split images
-![split_result](screenshots/split_result.png)c
+![split_result](screenshots/split_result.png)

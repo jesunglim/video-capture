@@ -30,7 +30,7 @@ pip install -r requirements.txt
 ```
 
 ## video-capture 실행 방법
-리눅스나 macOS를 사용하신다면 파일 경로만 변경해주세요.
+리눅스나 macOS를 사용한다면 파일 경로 형식만 변경해주세요.
 ```
 cd video-capture
 # Generic
@@ -56,4 +56,4 @@ Crop Result
 ![crop_result](screenshots/crop_result.jpg)
 
 저장된 4분할 이미지
-![split_result](screenshots/split_result.png)c
+![split_result](screenshots/split_result.png)
